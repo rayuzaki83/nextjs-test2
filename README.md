@@ -1,3 +1,1 @@
-# nextjs-dxnc4n
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-dxnc4n)
+My add created with Nextjs
