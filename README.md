@@ -1,1 +1,1 @@
-My add created with Nextjs
+My app created with Nextjs
